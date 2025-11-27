@@ -1,0 +1,1 @@
+javac -d out src/producerconsumer/*.java src/philosophers/*.java src/barber/*.java
